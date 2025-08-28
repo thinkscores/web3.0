@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"title": "CloneLibrary - 用于创建最小代理合约 (EIP-1167)",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SampleFactory.sol": "CloneLibrary"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SampleFactory.sol": {
+			"keccak256": "0xf8f591a22f0f2e7c5762ae0852e6a7de8852b7ac06adfc57d2eb93e6d5d602a4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ea631841870cb63253130ac84cbc7b64a98e58aa21fd86a301614644d6f5f5ae",
+				"dweb:/ipfs/QmZYMhMsf6gZKWiUUpknvd6Bmrd9wb3TeBedrCw9jgAyLY"
+			]
+		}
+	},
+	"version": 1
+}
